@@ -43,6 +43,14 @@ public class Mascotas {
         System.out.println("El " + tipoAnimal0 + " se llama " + nombre0 + ", tiene "
                 +edad0 + " anio. " + "Hace "+ sonido0 + " y come: "+consumo0);
 
+        System.out.println("------ while ------");
+        int cont = 0;
+        while(cont <= 10){
+            cont = cont +1;
+            System.out.println("Estoy en la vuelta "+cont);
+
+        }
+
 
     }
 }

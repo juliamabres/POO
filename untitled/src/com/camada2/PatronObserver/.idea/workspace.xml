@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee265fbd-95fb-4629-a849-62a3d3e2e77c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../DH-Excepciones/DH-Excepciones/DH-Excepciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DH-LanzarExcepciones/DH-LanzarExcepciones/DH-LanzarExcepciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DH-Operaciones-Sobre-Colecciones/DH-Operaciones-Sobre-Colecciones/DH-Operaciones-Sobre-Colecciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DH-Recorriendo-Colecciones/DH-Recorriendo-Colecciones/DH-Recorriendo-Colecciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../DH-Relaciones1aMuchosOrdenados/DH-Relaciones1aMuchos/DH-Relaciones1aMuchosOrdenados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/untitled/com/camada2/clase1/Mascotas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/untitled/com/camada2/clase1/Mascotas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/Mascotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/Mascotas.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2FxQvszUzOEi5PSPQLdB8Uph0TB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Rentas/OneDrive/Escritorio/Cert_Dev/POO/untitled/src/com/camada2/Patrones"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Patrones" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Patrones" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee265fbd-95fb-4629-a849-62a3d3e2e77c" name="Changes" comment="" />
+      <created>1665431491012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665431491012</updated>
+    </task>
+    <servers />
+  </component>
+</project>
